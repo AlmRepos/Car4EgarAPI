@@ -1,0 +1,8 @@
+# Ignore push packages
+*.nupkg
+*.snupkg
+
+# Ignore build files
+bin/
+obj/
+/Migrations
